@@ -1,0 +1,24 @@
+Formative Assessment8:
+
+What are the different techniques implemented in Agile development comprehensive highlighting the following:
+
+Key features of each technique:
+
+- SCRUM: Sprint is the backbone of the Scrum. It's a timebox of one and four weeks during which an increment of product or service work is completed and ready to send to the customer
+       : Sprint planning is the work the that needs to be completed in a sprint that is planned by the entire Scrum team during planning.
+       : Daily Scrum, this is a 15-min daily meeting where the Scrum team dicuss that day's work 
+       : Sprint Review, held at the end of a sprint and it is used to inspect the work delivered and adapt the product backlog if required.
+       : Sprint Restrospective, is a meeting of the entire Scrum team and is used to create improvement opportunities.
+
+- FEATURE DRIVEN DEVELOPMENT(FDD): Domain Object modelling. This consistss of exploring and explaining the domain of the problem to be solved. The resulting domain object model provides an overall framework in which to add features.
+                                 : Developing by Feature. Any function that is too complex to be implemented within two weeks is further decomposed into smaller functions until each sub-problem is small enough to be called a feature. This makes it easier to deliver correct functions and to extend or modify the system.
+                                 : Individual Class (Code) Ownership. Individual class ownership means that distinct pieces or grouping of code are assigned to a single owner. The owner is responsible for the consistency, performance, and conceptual integrity of the class.
+                                 : Feature Teams. A feature team is a small, dynamically formed team that develops a small activity. Multiple minds are always applied to each design decision, and multiple design options are evaluated before one is chosen.
+                                 : Inspections. Inspections are carried out to ensure good quality design and code primarily by detection of defects.
+                                 : Configuration Management. Configuration management helps with identifying the source code for all features that have been completed to date and maintaining a history of changes to classes as feature teams enhance them.
+                                 : Regular Builds. Regular builds ensure there is always an up-to-date system that can be demonstrated to the client and helps highlight integration errors of source code for the features early.
+                                 : Visibility of progress and results. Managers steer a project using frequent, appropriate, and accurate progress reporting from all levels inside and outside the project based on completed work.
+
+EXTREME PROGRAMMING: Communication..Extreme Programming does not depend on extensive documentation. As a matter of fact, extreme programming documentation is suggested only when necessary. So the methodology relies heavily on communication between team members and also with the users.
+                   : Simplicity..This is at the core of Extreme Programming. The methodology favours simple designs, not thinking too far ahead into the future, but focusing on the requirements of today, while making the program itself robust enough to add the requirements the future throws up.
+                   : Feedback.. This essential loop of going back and forth differentiates Agile systems in general and Extreme Programming in particular, from other software project management methodologies. The continuous feedback can work in different ways, but they all work towards making the system stronger and more reliable.
